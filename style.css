@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(220, 236, 245);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+} 
+h2, h3{
+    font-weight: 500px;
+    color:salmon;
+}  
+.semi-body {
+    padding: 20px;
+}
+.site {
+    text-align: center;
+}
+ul:nth-of-type(odd) li:nth-of-type(odd) {
+    font-style: italic;
+    font-weight: bold;
+} 
+.image {
+    width: 200px;
+    padding: 20px;
+    background-color: gray;
+}
+.descricao {
+    width: 800px;
+    top: 100px;
+    text-align: center;
+    padding: 10px;
+    height: 40px;
+    float: left;
+    position: absolute;
+    top: 200px;    
+}
+.sobre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+}
+
