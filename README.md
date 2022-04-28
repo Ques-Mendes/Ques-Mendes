@@ -1,4 +1,4 @@
-#### Hello, I'm Quesia Mendes!
+#### Hello, I'm Quesia Mendes :wink:!
 
 > I am from Belo Horizonte, Minas Gerais, Brazil.
  
@@ -13,7 +13,7 @@
     <img align-center"alt=Ques-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
     <img align-center"alt=Ques-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />              </div>
 
-> And that is just the beginning!!!
+> .....And that is just the beginning :rocket:!!!
 
 ##
 
