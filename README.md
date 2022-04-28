@@ -1,8 +1,25 @@
-#### Welcome to my github!
-> My name is Quesia, 
+#### Hello, I'm Quesia Mendes!
+
 > I am from Belo Horizonte, Minas Gerais, Brazil.
  
->>I'm a web development student at Trybe, a school that teaches you how to program,
- learn and work. These are some of the technologies that I've been learning:
->>HTML, CSS, JavaScript, React and Redux. 
- And that is just the beginning!
+>I'm a web development student at Trybe, a school that teaches you how to program,
+ learn and work.
+>>These are some of the technologies that I've been learning:
+
+  <div style="display: inline_block"><br>         
+    <img align-center"alt=Ques-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
+    <img align-center"alt=Ques-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />       <img align-center"alt=Ques-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align-center"alt=Ques-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align-center"alt=Ques-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <img align-center"alt=Ques-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />              </div>
+
+> And that is just the beginning!!!
+
+##
+
+<div>
+ 
+</div>
+                                                                                                                                                   
+       
+          
