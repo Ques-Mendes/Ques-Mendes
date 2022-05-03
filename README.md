@@ -22,7 +22,10 @@
 ##
 
 <div>
- 
+ <h5 align="left" >Let's connect?</h5>
+<p align="left">
+<a href="https://linkedin.com/in/quesia-mendes" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/15792152941556105325-512.png" alt="Ques-Linkedin" height="30" /></a>
+</p>
 </div>
   
           
