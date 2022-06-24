@@ -28,5 +28,9 @@
 <a href="https://linkedin.com/in/quesia-mendes" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/15792152941556105325-512.png" alt="Ques-Linkedin" height="30" /></a>
 </p>
 </div>
+
+
+[![Quesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ques-Mendes&count_private=true&show_icons=true&theme=blue-green)](https://github.com/Ques-Mendes/github-readme-stats)
+
   
      
