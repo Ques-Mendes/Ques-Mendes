@@ -30,10 +30,10 @@ Feel free to reach me out will be a plesasure to exchange knowledge!
 
 <div align="center">
 <a href="https://github.com/Ques-Mendes/github-readme-stats">
- <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ques-Mendes&count_private=true&show_icons=true&theme=blue-green" alt="Ques-stats" />
+ <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ques-Mendes&include_all_commits=true&count_private=true&show_icons=true&theme=blue-green" alt="Ques-stats" />
 </a>
 <a href="https://github.com/Ques-Mendes/github-readme-stats">
- <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ques-Mendes&layout=compact&theme=blue-green" alt="Ques-stats" />
+ <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ques-Mendes&layout=compact&theme=blue-green&include_all_commits=true" alt="Ques-stats" />
 </a>
 </div>
 
