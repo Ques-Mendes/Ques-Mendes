@@ -1,10 +1,10 @@
 #### Hello, I'm Quesia Mendes :wink:!
 
-> I am from Belo Horizonte, Minas Gerais, Brazil.
- 
->I'm a web development student at Trybe, a school that teaches you how to program,
+ I'm from Belo Horizonte, Minas Gerais, Brazil. 
+ Currently I'm a web development student at [Trybe](https://www.betrybe.com/), a school that teaches you how to program,
  learn and work.
->>These are some of the technologies that I've been learning:
+ 
+**These are some of the technologies and tools that I've been learning:**
 
 <div style="display: inline_block"><br>         
   <img align-center"alt=Ques-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -18,19 +18,23 @@
   <img align-center"alt=Ques-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
 
-> .....And that is just the beginning :rocket:!!!
+**.....And that is just the beginning :rocket:!!!**
 
 ##
 
-<div>
- <h5 align="left" >Let's connect?</h5>
 <p align="left">
+Feel free to reach me out will be a plesasure to exchange knowledge! 
 <a href="https://linkedin.com/in/quesia-mendes" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/15792152941556105325-512.png" alt="Ques-Linkedin" height="30" /></a>
 </p>
+
+
+<div align="center">
+<a href="https://github.com/Ques-Mendes/github-readme-stats">
+ <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ques-Mendes&count_private=true&show_icons=true&theme=blue-green" alt="Ques-stats" />
+</a>
+<a href="https://github.com/Ques-Mendes/github-readme-stats">
+ <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ques-Mendes&layout=compact&theme=blue-green" alt="Ques-stats" />
+</a>
 </div>
 
-
-[![Quesia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ques-Mendes&count_private=true&show_icons=true&theme=blue-green)](https://github.com/Ques-Mendes/github-readme-stats)
-
   
-     
