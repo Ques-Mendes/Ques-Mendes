@@ -1,11 +1,11 @@
 #### Hello, I'm Quesia Mendes :wink:!
 
  I'm from Belo Horizonte, Minas Gerais, Brazil. 
- I'm a Software Engineer at XPInc.
- I'm a web development student at [Trybe](https://www.betrybe.com/), a school that teaches you how to program,
+ I'm a Software Engineer at [XP Inc.](https://www.xpinc.com/),
+ also a web development student at [Trybe](https://www.betrybe.com/), a school that teaches you how to program,
  learn and work.
  
-**These are some of the technologies and tools that I've been learning:**
+**These are some of the technologies and tools that I learned:**
 
 <div style="display: inline_block"><br>         
   <img align-center"alt=Ques-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
