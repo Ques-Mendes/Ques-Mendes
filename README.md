@@ -1,9 +1,9 @@
 #### Hello, I'm Quesia Mendes :wink:!
 
- I'm from Belo Horizonte, Minas Gerais, Brazil. 
- I'm a Software Engineer at [XP Inc.](https://www.xpinc.com/), uma empresa de pessoas para pessoas.
+ I'm from Belo Horizonte, Minas Gerais, Brazil.<br> 
  I used to be a web development student at [Trybe](https://www.betrybe.com/), a school that teaches you how to program,
- learn and work.
+ learn and work.<br>
+ I'm a Software Engineer at [XP Inc.](https://www.xpinc.com/), uma empresa de pessoas para pessoas.
  
 **These are some of the technologies and tools that I learned:**
 
